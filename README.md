@@ -1,3 +1,6 @@
+## Overview
+The Vue.js Travel Planner is a web application designed to help users plan their travel by providing information about various cities around the world. It allows users to select a city from a dropdown menu and view details such as city description, current weather, and forecast.
+
 ## Usage
 To use the Vue.js Travel Planner:
 
@@ -6,14 +9,22 @@ Select a city from the dropdown menu.
 View the city information, including description, current weather, and forecast.
 Technologies Used
 Vue.js: JavaScript framework for building user interfaces.
+
 Vue Router: Library for routing in Vue.js applications.
+
 Vue Test Utils: Official testing utility library for Vue.js.
+
 Fetch API: JavaScript interface for fetching resources asynchronously.
+
 ## Dependencies
 axios: Promise-based HTTP client for the browser and Node.js.
+
 vue-router: Official router for Vue.js.
+
 vue-test-utils: Official testing utilities for Vue.js.
+
 babel-jest: Jest transformer for Vue.js applications.
+
 vue-jest: Jest transformer for Vue.js components.
 
 ## Project setup
