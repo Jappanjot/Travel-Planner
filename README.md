@@ -7,7 +7,9 @@ To use the Vue.js Travel Planner:
 Navigate to the application URL.
 Select a city from the dropdown menu.
 View the city information, including description, current weather, and forecast.
+
 Technologies Used
+
 Vue.js: JavaScript framework for building user interfaces.
 
 Vue Router: Library for routing in Vue.js applications.
